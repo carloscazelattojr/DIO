@@ -1,12 +1,24 @@
-# DIO
-Digital Innovation One 
+<div align="center">
+  <h1 align="center">Bat Password Generator</h1>
+</div>
+<p align="center">
+      Aplicativo para gerar senhas aleatórias no tema Batman
+    <br />
+ </p>
 
-## Formação React Native Developer <br>
+## Preview
 
-<h1 align="center">
-    <img alt="Bat-Pass-App" title="#batpassapp" src="https://github.com/carloscazelattojr/DIO/blob/main/formacao-react-native-devepoler/bat-pass-app/assets/print1.jpeg"  /><br>
-</h1>
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carloscazelattojr/DIO/blob/main/formacao-react-native-devepoler/bat-pass-app/assets/print2.jpeg" width="200" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/DIO/blob/main/formacao-react-native-devepoler/bat-pass-app/assets/print1.jpeg" width="200" alt="preview" />
+  </a>
+</div>
 
-<h1 align="center">
-    <img alt="Bat-Pass-App" title="#batpassapp" src="https://github.com/carloscazelattojr/DIO/blob/main/formacao-react-native-devepoler/bat-pass-app/assets/print2.jpeg"  /><br>
-</h1>
+## Technologies
+
+-   [React Native](https://reactnative.dev/)
+-   [Expo](https://docs.expo.dev/)
+
+  
+ 
